@@ -8,7 +8,7 @@ export PROJECT_ID=research-pill
 import gradio as gr
 import sys
 import json
-from google.cloud import automl_v1beta1
+#from google.cloud import automl_v1beta1
 import numpy as np
 import cv2
 import imutils
